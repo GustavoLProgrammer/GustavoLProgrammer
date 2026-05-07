@@ -13,8 +13,6 @@ Python & SQL Developer
 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-Python • SQL • Git • GitHub
-
 ## Currently Learning
 Backend Development
 Data Engineering
