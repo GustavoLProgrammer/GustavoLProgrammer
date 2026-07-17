@@ -14,10 +14,5 @@ Back-End Developer
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ## Currently Learning
-Backend Development
+Backend Development and
 Data Engineering
-
-## Featured Projects
-- Python Automation
-- SQL Analytics
-- Flask API
